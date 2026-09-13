@@ -1759,7 +1759,7 @@
     "LabelKodiMetadataEnableExtraThumbsHelp": "Niðurtiknar myndir kunnu verða vístar til bæði í \"extrafanart\" og \"extrathumbs\"-teigunum fyri besta sínamillumvirkni við Kodi.",
     "LabelMaxMuxingQueueSize": "Hámark á pakkibíðirøð",
     "LabelMaxMuxingQueueSizeHelp": "Hámark av pakkum ið kunnu verða í tippinum tá bíða verður eftir innleiðing av øllum stroymunum. Fært tú villuna \"Too many packets buffered for output stream\" í FFmpeg gerðalistum kanst tú royna at hækka tað. Tilmælda markvirði er 2048.",
-    "LabelNoChangelog": "Eingin broytingarlisti fylgir við hesi útgávuni.",
+    "LabelNoChangelog": "Eingin broytingalisti fylgir við hesi útgávuni.",
     "LabelMetadataReadersHelp": "Raðfest tínar lokalu metadátukeldur. Fyrst funna fílan verður innlisin.",
     "LabelSimultaneousConnectionLimit": "Hámark á samstundis stroymum",
     "LabelLocalHttpServerPortNumber": "Lurta á HTTP-porturnummari",
