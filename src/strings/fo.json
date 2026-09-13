@@ -1868,5 +1868,10 @@
     "MessageRestoreDisclaimer": "GEV GÆTUR: Tú er í ferð við at endurstovna frá einum eldri trygdaravriti. Ambætarin verður ikki nýtiligur undir tilgongdini, og allar dátur yngri enn trygdaravritið verða strikaðar.\n\nTrygdaravrit eiga einans at verða endurstovnaði í somu ambætaraútgávu sum tey vóru stovnaði við. At endurstovna eitt trygdaravrit við aðrari ambætaraútgávu er frámælt og kann elva til at ambætarin gerst ónýtiligur.",
     "MessageRestoreSuccess": "Endurstovnanin eydnaðist",
     "LabelTargetCodecs": "Kodek ið miðað er eftir",
-    "PriorityIdle": "Lágt"
+    "PriorityIdle": "Lágt",
+    "OptionAllowLinkSharing": "Loyv deiling á sosialum miðlum",
+    "OptionAllowLinkSharingHelp": "Bert vevsíður við miðlaupplýsingum verða deildar. Miðlafílur verða ongantíð deildar alment. Deilingar eru tíðaravmarkaðar og fyrna eftir {0} dagar.",
+    "OptionMaxActiveSessions": "Avmarka samstundis setur brúkarans.",
+    "OptionMaxActiveSessionsHelp": "Verður 0 ásett er avmarkingin óvirkja.",
+    "LabelDropShadow": "Skuggar"
 }
